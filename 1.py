@@ -4,8 +4,6 @@ def one():
     """
     pass
 
-def two():
-    """
 
-    """
+def two(aha):
     pass
