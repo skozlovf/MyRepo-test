@@ -7,3 +7,9 @@ def one():
 
 def two(aha):
     pass
+
+
+def three(xx):
+    '''
+    :param yy: ds
+    '''
