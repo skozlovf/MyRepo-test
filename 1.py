@@ -1,15 +1,17 @@
 def one():
-    """
-    :param xx:
-    """
     pass
 
 
 def two(aha):
+    """
+    Args:
+        aha:
+    """
     pass
 
 
 def three(xx):
-    '''
-    :param yy: ds
-    '''
+    """
+    Args:
+        xx:
+    """
