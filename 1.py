@@ -1,15 +1,21 @@
 def one(arg1):
     """
-    :param xx:
+    Args:
+        arg1:
     """
     pass
 
 
 def two(aha):
+    """
+    Args:
+        aha:
+    """
     pass
 
 
 def three(xx):
-    '''
-    :param yy: ds
-    '''
+    """
+    Args:
+        xx:
+    """
