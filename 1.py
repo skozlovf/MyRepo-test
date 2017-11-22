@@ -1,4 +1,4 @@
-def one(arg1):
+def one(arg1, arg2):
     """
     :param xx:
     """
